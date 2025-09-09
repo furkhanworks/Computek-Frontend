@@ -14,4 +14,4 @@ Clone the repository and use the files in your web server or integrate with your
 Copyright © 2025 Furkhan's Team Mac Coders. All rights reserved.
 
 ---
-For any queries or support, contact Furkhan's Team Mac Coders.
+For any queries or support, contact Furkhan's Team Mac Coders at maccoderoops@gmail.com.
